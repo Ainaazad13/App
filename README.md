@@ -1,2 +1,2 @@
 # App
-I'm gooing to make a wonderful Project
+I'm doing to make a wonderful Project
